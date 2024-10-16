@@ -1,2 +1,2 @@
-# ECE_443_Final_Project
-MATLAB implementation of Reynolds Flocking Algorithms using Alpha, Gamma, and Beta agents for my ECE 443 (Controls III) final project at Bradley University
+# ECE_443_Final_Project #
+This project implements Reynolds' flocking algorithms (boids) using three types of agents: alpha, beta, and gamma. The simulation is developed in MATLAB, featuring both 3D and 2D environments to visualize agent behaviors. The alpha, beta, and gamma agents introduce hierarchical flocking dynamics, adding complexity to traditional boid simulations by altering interactions based on agent roles and priorities.
