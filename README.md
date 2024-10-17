@@ -27,7 +27,8 @@ This project implements Reynolds' flocking algorithms (boids) using alpha, beta,
     - Add more complex obstacle configurations to test agent behaviors.
     - Implement interactive control for the gamma agent for dynamic leader-follower simulations.
     - Reformat the existing code, as it's currently spaghetti code, to make it cleaner, more modular, and easier to maintain.
+    - Separate each simulation to improve accessibility
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the LICENSE file for more details.
